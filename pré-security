@@ -1,0 +1,22 @@
+Aqui eu comecei entendendo sobre como funciona a base de tudo, treinei Offensive Security onde precisei pensar como intruso para previnir futuros furos no sistema e Defensive Security onde iremos analisar padrões e detectar 
+às brechas - Particularmente preferi a defensiva mas não tive nenhuma dificuldade de entender e aplicar as duas.
+
+No próximo tópico da aula, entendemos a atuação de um analista de Cybersecurity e às principais tarefas que eles fazem, como identificar vulnerabilidades, investigar ameaças e reduzir riscos. 
+Para me aprofundar nisso, fui colocada a uma serie de testes e explicações sobre as funcionabilidades dos computadores. Esses conhecimentos são importantes para entender como os sistemas funcionam,
+como os dados são transmitidos e de que forma os profissionais de Cibersegurança podem identificar riscos e proteger os servidores.
+
+Finalizamos com virtualização e Cloud - Foi a parte em que eu mais gostei e me adaptei, me senti desafiada. 
+Introduzimos os fundamentos de Host(fornecedor de recursos), Virtual Machines (VMs; executor de softwares) e Hypervisor(quem que cria e gerencia às VMs). 
+Para completar em Cloud Computing; Iaas disponibiliza recursos como VMs, armazenamento e redes, o cliente possui maior controle sobre o sistema operacional.
+                                   PaaS oferece uma plataforma para desenvolver, executar e disponibilizar aplicações, reduzindo a necessidade de administrar a infraestrutura subjacente.
+                                   SaaS já possui aplicações prontas para utilização pela internet, geralmente por meio de um navegador ou aplicativo.
+
+Em resumo me ajudou a entender melhor o funcionamento básico da comunicação entre computadores e a estrutura por trás dos serviços que utilizamos diariamente.
+Percebi que esses conceitos são essenciais para a Cibersegurança, fiz muitas tasks e me habituei no sistema.
+
+
+
+
+
+
+
